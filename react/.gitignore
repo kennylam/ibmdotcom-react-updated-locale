@@ -1,0 +1,12 @@
+.env
+coverage
+tests/a11y-results
+
+# Storybook
+storybook-static
+
+# rollup
+stats.html
+
+# Generated vendor files
+src/internal/vendor
